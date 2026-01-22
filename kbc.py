@@ -3,7 +3,7 @@ questions = [
     {
         "q": "Who is the president of the United States?",
         "options": [ "Joe Biden", "Donald Trump", "Barack Obama", "George W. Bush"],
-        "answer": "Joe Biden"
+        "answer": "Donald Trump"
     },
     {
         "q": "What is the capital of France?",
